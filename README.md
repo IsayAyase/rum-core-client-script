@@ -1,0 +1,1 @@
+# rum-core-client-script
